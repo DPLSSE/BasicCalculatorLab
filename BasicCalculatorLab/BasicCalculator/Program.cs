@@ -8,6 +8,8 @@ namespace BasicCalculator
         {
             Console.WriteLine("*** BASIC CALCULATOR ***");
 
+            // Make some changes to complete the activity...
+
             Console.WriteLine("Enter the first number");
 
             // int.Parse will take a string data type and convert it to an int data type
